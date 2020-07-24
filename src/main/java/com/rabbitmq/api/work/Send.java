@@ -1,4 +1,4 @@
-package com.rabbitmq.api.producer;
+package com.rabbitmq.api.work;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
  * @author wq
  * 发送50条消息
  */
-public class Send2 {
+public class Send {
 
     /**
      *   Set up the class and name the queue,设置队列名称

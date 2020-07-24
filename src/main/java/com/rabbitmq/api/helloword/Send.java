@@ -1,4 +1,4 @@
-package com.rabbitmq.api.producer;
+package com.rabbitmq.api.helloword;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
